@@ -2,6 +2,16 @@
 
 Fine-tuned DistilBERT model for 3-class sentiment analysis (positive/negative/neutral) on tweet data.
 
+## 🔗 Live Demo
+Try it here: [Sentiment Analysis Demo](https://twitter-sentiment-analysis-llynpjmbnesfeuumiickjf.streamlit.app/)
+
+## 🛠️ Tech Stack
+- **Model:** DistilBERT (fine-tuned)
+- **Framework:** PyTorch, Hugging Face Transformers
+- **Deployment:** Streamlit, Hugging Face Hub
+- **Language:** Python
+- **Data Processing:** Pandas, Scikit-learn
+
 ## Results
 - **Test Accuracy: 79.09%**
 - Precision/Recall/F1 by class:
